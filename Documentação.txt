@@ -1,0 +1,19 @@
+Documentação de dependencias:
+
+npm i express --save
+npm i express-handlebars --save
+npm i sequelize --save
+npm i mysql2 --save
+npm install body-parser --save
+
+
+
+Para rodar o servidor, digite no terminal: 
+node app.js
+nodemon app.js (para reiniciar automaticamente quando salvar um)
+
+
+
+Como iniciar um projeto:
+npm i
+npm run start
